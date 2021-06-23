@@ -1,0 +1,6 @@
+framework module Pods_StripePods {
+  umbrella header "Pods-StripePods-umbrella.h"
+
+  export *
+  module * { export * }
+}
